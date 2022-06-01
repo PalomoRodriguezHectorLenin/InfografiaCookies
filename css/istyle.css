@@ -1,0 +1,23 @@
+.titulo{
+    height: 50px;
+    width: 100%;
+    background-color: #303030;
+    
+}
+
+h1{
+    color: cornsilk;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
+
+.contenedor{
+ background-color:darkgrey;
+ width: 700px;
+ height: 500px;
+ margin-left: auto;
+ margin-right: auto
+ 
+}
+
