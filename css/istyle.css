@@ -14,10 +14,69 @@ h1{
 
 .contenedor{
  background-color:darkgrey;
- width: 700px;
- height: 500px;
+ width: 1200px;
+ height: 1200px;
  margin-left: auto;
  margin-right: auto
  
 }
 
+#cookies{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    background-color: aliceblue;
+    width: 470px;
+    height: 120px;
+}
+
+#metodos{
+    position: absolute;
+    left: 650px;
+    top: 850px;
+    background-color: aliceblue;
+    width: 470px;
+    height: 120px;
+}
+
+#cookies2{
+    position: absolute;
+    right: 200px;
+    top: 350px;
+    background-color: aliceblue;
+    width: 470px;
+    height: 120px;
+}
+
+#cookies3{
+    position: absolute;
+    left: 150px;
+    top: 600px;
+    background-color: aliceblue;
+    width: 470px;
+    height: 120px;
+}
+
+#pcookies{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#pcookies2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#pcookies3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#pmetodos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
