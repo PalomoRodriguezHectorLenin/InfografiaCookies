@@ -105,3 +105,27 @@ h1{
     right: 325px;
     top: 570px;
 }
+
+#Imagen1{
+    width: 270px;
+    height: 200px;
+    position: absolute;
+    right: 300px;
+    top:95px
+}
+
+#Imagen2{
+    width: 270px;
+    height: 220px;
+    position: absolute;
+    left: 270px;
+    top: 350px;
+}
+
+#Imagen3{
+    width: 270px;
+    height: 220px;
+    position: absolute;
+    right: 325px;
+    top: 570px;
+}
